@@ -1,1 +1,6 @@
-{}
+{
+    "env": {
+        "EVENTBRITE_TOKEN": "D7IHE5IG6YA4XAV7ECMV",
+        "ORGANIATION_ID": "939046601783"
+    }
+}
