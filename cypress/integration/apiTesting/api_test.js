@@ -4,11 +4,6 @@ describe("API Testing of Conduit App", function () {
 
 
     let event_id;
-    beforeEach(() => {
-
-
-    })
-
     it("CREATE an event from scratch", () => {
         cy.request({
             method: "POST",
