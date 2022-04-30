@@ -15,12 +15,11 @@ npm install
 ```
 
 ## Usage
-Use following commands to execute API Automation. 
+Use following command to execute API Automation. 
 
 ```bash
 npm run cypress:APITests
 ```
 
 ## References
-- [API test documentaion](https://www.appsloveworld.com/free-online-sample-rest-api-url-for-testing/)
 - [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
