@@ -15,7 +15,7 @@ npm install
 ```
 
 ## Usage
-Use following commands to API Automation. 
+Use following commands to execute API Automation. 
 
 ```bash
 npm run cypress:APITests
