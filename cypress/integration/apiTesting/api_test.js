@@ -1,9 +1,11 @@
 /// <reference types="cypress" />
 
-describe("API Testing of Conduit App", function () {
+describe("API Testing for eventbrite", function () {
 
-
+    let token = process.env.EVENTBRITE_TOKEN;
+    let organization_id = process.env.ORGANIATION_ID
     let event_id;
+    
     it("CREATE an event from scratch", () => {
         cy.request({
             method: "POST",
