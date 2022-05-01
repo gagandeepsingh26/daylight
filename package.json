@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gagandeepsingh26/daylight/issues"
   },
-  "homepage": "https://github.com/gagandeepsingh26/daylight#readme"
+  "homepage": "https://github.com/gagandeepsingh26/daylight#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
 }
